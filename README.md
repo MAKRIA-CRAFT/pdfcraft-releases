@@ -1,2 +1,2 @@
 # pdfcraft-releases
-Mak PDF — downloads (installers only)
+My PDF — downloads (installers only)
